@@ -15,14 +15,45 @@
 
 ## Tech Stack
 
-**💻 Programming Languages**                                   **🔌 IoT & Hardware**  
-- JavaScript / TypeScript                                       - ESP32
-- Python / Micropython                                          - Arduino
-- C / C++                                                       - MQTT & WebSockets
-- C#                                                            - Sensor Integration
-
-**🌐 Backend & Databases**                                     **🛠 Tools & IDEs**
-- Node.js                                                       - GitHub
-- MongoDB                                                       - VS Code & Visual Studio
-- Mysql                                                         - Arduino IDE
-- SQLite                                                        - Proteus
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>💻 Programming Languages</b>
+      <ul>
+        <li>JavaScript / TypeScript</li>
+        <li>Python / Micropython</li>
+        <li>C / C++</li>
+        <li>C#</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>🔌 IoT & Hardware</b>
+      <ul>
+        <li>ESP32</li>
+        <li>Arduino</li>
+        <li>MQTT & WebSockets</li>
+        <li>Sensor Integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🌐 Backend & Databases</b>
+      <ul>
+        <li>Node.js</li>
+        <li>MongoDB</li>
+        <li>Mysql</li>
+        <li>SQLite</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>🛠 Tools & IDEs</b>
+      <ul>
+        <li>GitHub</li>
+        <li>VS Code & Visual Studio</li>
+        <li>Arduino IDE</li>
+        <li>Proteus</li>
+      </ul>
+    </td>
+  </tr>
+</table>
