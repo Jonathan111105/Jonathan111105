@@ -1,4 +1,4 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://](https://www.instagram.com/srjonaz0/">JonaOrtega</a> 👋😄</h1>
 </div>
-<img width="1024" height="338" alt="cbd5f923-f1b6-4dd1-8965-48985d4efafd" src="https://github.com/user-attachments/assets/b62b72d7-d6ba-4e8a-8011-5cffa8dba1a0" />
+<img width="3168" height="1344" alt="Gemini_Generated_Image_uieyfruieyfruiey" src="https://github.com/user-attachments/assets/c54d3941-d84b-4b5c-bb86-439ffb643217" />
