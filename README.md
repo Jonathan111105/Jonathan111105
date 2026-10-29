@@ -7,39 +7,22 @@
 
 - 🎓 **Internet Technologies Engineering** student at Universidad de Colima.
 - 💻 **Software Development** with a focus on full-stack, mobile, and embedded systems.
-- 🔌 **Circuit Tamer & IoT Enthusiast**: Building hardware projects with ESP32, Arduino, sensors, and RFID.
-- 📱 **Mobile & Multi-platform**: Creating apps using Flutter, React Native, and C# (.NET MAUI).
-- 🌐 **Backend & Protocols**: Node.js, Python, MQTT, WebSockets, Firebase, and MongoDB.
+- 🔌 **Circuit Tamer & IoT Enthusiast**: Building hardware projects with ESP32, Arduino and sensors.
+- 📱 **Mobile & Multi-platform**: Creating apps using Flutter and React Native.
+- 🌐 **Backend & Protocols**: Node.js, Python, MQTT, WebSockets and MongoDB.
 - 🚗 **Currently working on**: An IoT vehicle retrofitting system for my undergraduate thesis.
 - 🦇 **Fun fact**: I run on coffee, gaming, and Batman lore.
 
 ## Tech Stack
 
-**💻 Programming Languages**
-- JavaScript / TypeScript
-- Python / Micropython
-- C / C++
-- C#
+**💻 Programming Languages**                                   **🔌 IoT & Hardware**  
+- JavaScript / TypeScript                                       - ESP32
+- Python / Micropython                                          - Arduino
+- C / C++                                                       - MQTT & WebSockets
+- C#                                                            - Sensor Integration
 
-**📱 Mobile Development**
-- Flutter
-- React Native
-- Kotlin
-
-**🔌 IoT & Hardware**
-- ESP32
-- Arduino
-- MQTT & WebSockets
-- Sensor Integration
-
-**🌐 Backend & Databases**
-- Node.js
-- MongoDB
-- Mysql
-- SQLite
-
-**🛠 Tools & IDEs**
-- GitHub
-- VS Code & Visual Studio
-- Arduino IDE
-- Proteus
+**🌐 Backend & Databases**                                     **🛠 Tools & IDEs**
+- Node.js                                                       - GitHub
+- MongoDB                                                       - VS Code & Visual Studio
+- Mysql                                                         - Arduino IDE
+- SQLite                                                        - Proteus
